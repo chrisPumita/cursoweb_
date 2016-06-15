@@ -1,0 +1,14 @@
+		p.introduccion,
+		h1.introduccion,
+		p.introduccion a{
+			color: red;
+			background-color: #2A2F84 ;
+			font-family: "Arial";
+			font-size: 12pt;
+			line-height: 2;
+		}
+
+		p a{
+			color: red;
+			text-decoration: none;
+		}

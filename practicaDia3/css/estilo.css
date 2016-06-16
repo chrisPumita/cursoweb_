@@ -1,3 +1,26 @@
 h1{
 	background-color: #109F23;
+	font-family:"Arial";
+}
+h2{
+	background-color: #649F10;
+	font-family:"Arial";
+}
+p{
+	font-family:"Arial";
+	line-height: 2;
+}
+
+a{
+	font-family:"Arial";
+	color: #649F10;
+	text-decoration: none;
+	font-size: 16pt;
+}
+
+li{
+	font-family:"Arial";
+	color: #0E1B73;
+	font-size: 20pt;
+
 }

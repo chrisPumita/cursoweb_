@@ -1,0 +1,40 @@
+div{
+	font-size: 30px;
+	width: 250px;
+	height: 150px;
+	float: right;
+}
+
+.caja{
+	position: absolute; /*Absolute, Fixed*/
+	top: 200px;
+	bottom: 0px;
+	right: 0px;
+	left: 150px;
+}
+
+.img .saudo{
+	position: relative;
+}
+
+.cajaGrande{
+	position: relative;
+	width: 500px;
+	height: 500px;
+}
+
+.verde{
+	background: green;
+}
+
+.rojo{
+	background: red;
+}
+
+.azul{
+	background: blue;
+}
+
+.rosa{
+	background: pink;
+}
